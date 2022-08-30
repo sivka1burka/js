@@ -1,0 +1,98 @@
+#osnova{
+    display:flex;
+    justify-content: center;
+}
+#btn1{
+    width:70px;
+    border:0px solid;
+}
+#btn2{
+    width:70px;
+    border:0px solid;
+}
+#circles{
+    display:flex;
+    
+    justify-content: center;
+}
+#circle1{
+    width:15px;
+    height:15px;
+    border-radius:10px;
+    background-color: rgb(194, 194, 194);
+    margin:5px 5px;
+}
+#circle2{
+    width:15px;
+    height:15px;
+    border-radius:10px;
+    background-color: rgb(121, 121, 121);
+    margin:5px 5px;
+}
+#circle3{
+    width:15px;
+    height:15px;
+    border-radius:10px;
+    background-color: rgb(121, 121, 121);
+    margin:5px 5px;
+}
+#circle4{
+    width:15px;
+    height:15px;
+    border-radius:10px;
+    background-color: rgb(121, 121, 121);
+    margin:5px 5px;
+}
+#circle5{
+    width:15px;
+    height:15px;
+    border-radius:10px;
+    background-color: rgb(121, 121, 121);
+    margin:5px 5px;
+}
+#circle6{
+    width:15px;
+    height:15px;
+    border-radius:10px;
+    background-color: rgb(121, 121, 121);
+    margin:5px 5px;
+}
+#kartinka1{
+    display:block;
+}
+#kartinka2{
+    display:none;
+}
+#kartinka3{
+    display:none;
+}
+#kartinka4{
+    display:none;
+}
+#kartinka5{
+    display:none;
+}
+#kartinka6{
+    display:none;
+}
+#activateInterval{
+    border-radius:20px;
+    width:60%;
+    position:relative;
+    left:20%;
+    background-color: rgba(182, 182, 182, 0.315);
+    border:0px solid;
+    
+    
+}
+#activateInterval1{
+    border-radius:20px;
+    width:60%;
+    position:relative;
+    left:20%;
+    background-color:rgba(182, 182, 182, 0.315);
+    border:0px solid;
+    margin:5px 0px;
+    
+    
+}
